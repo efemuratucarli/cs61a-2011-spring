@@ -5,9 +5,6 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <p><b>Start Date: 4 March 2022</b></p>
 <p><b>Planned Finish Date: 5 June 2022</b></p>
 <h2><b>SCHEDULE</b></h2>
-<style type="text/css">
-	.tg {table-layout: fixed; width: 220px"}
-</style>
 <table class="tg">
 <colgroup>
 <col style="width: 114px">
