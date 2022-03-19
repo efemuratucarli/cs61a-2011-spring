@@ -8,7 +8,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <table class="tg">
 <colgroup>
 <col style="width: 114px">
-<col style="width: 106px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -18,23 +18,23 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <tbody>
   <tr>
     <td>SICP 1.1</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 1</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 2</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lab</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Homework</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
 </tbody>
 </table>
@@ -42,7 +42,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <table class="tg">
 <colgroup>
 <col style="width: 114px">
-<col style="width: 106px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -52,27 +52,27 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <tbody>
   <tr>
     <td>SICP 1.3</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 3</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 4</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 5</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Homework</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lab</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
 </tbody>
 </table>
