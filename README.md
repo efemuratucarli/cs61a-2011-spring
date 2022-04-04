@@ -80,7 +80,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <table class="tg">
 <colgroup>
 <col style="width: 114px">
-<col style="width: 106px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -94,15 +94,15 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
   </tr>
   <tr>
     <td>Lecture 6</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 7</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 8</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Homework</td>
@@ -110,7 +110,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
   </tr>
   <tr>
     <td>Lab</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Project 1</td>
