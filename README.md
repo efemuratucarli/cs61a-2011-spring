@@ -90,7 +90,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
 <tbody>
   <tr>
     <td>SICP 1.2</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lecture 6</td>
@@ -106,7 +106,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
   </tr>
   <tr>
     <td>Homework</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Lab</td>
