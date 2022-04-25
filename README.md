@@ -114,7 +114,7 @@ This repository contains my work on CS61A which was taught at Berkeley during sp
   </tr>
   <tr>
     <td>Project 1</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
 </tbody>
 </table>
